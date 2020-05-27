@@ -55,7 +55,7 @@ button:focus {
 }
 
 .settings.hide {
-  transform: translateY(-100);
+  transform: translateY(-100%);
 }
 
 .container {
